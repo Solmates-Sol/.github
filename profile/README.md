@@ -8,25 +8,24 @@ SOLMATES is a platform that connects Solana enthusiasts with seasoned mentors in
 - Personalized guidance and support
 - Secure video call facility powered by Huddle01
 
-## Getting Started
+## Here's how it works:
 
+1. Connect with experienced Solana mentors:
+Our platform connects you with experienced Solana mentors who can provide personalized guidance and support for your Solana projects.
+
+2. Secure video call facility powered by Huddle01:
+Our platform includes a secure video call facility powered by Huddle01, allowing you to connect with your mentor face-to-face for a more personalized mentorship experience.
+
+## Getting Started:
 SOLMATES is currently in the development phase and will be launched soon. Stay tuned for updates on our beta release.
 
-## Contributing
-
-We welcome contributions from the community. If you are interested in contributing to SOLMATES, please reach out to us.
-
-## License
-
+## License:
 SOLMATES is licensed under the MIT License.
 
-## Contact
-
+## Contact:
 For any questions or inquiries, please reach out to us at [solmates.solana@gmail.com](mailto:solmates.solana@gmail.com).
 
-## Do checkout our twitter : 
-
-- Twitter: [@Solmates_01](https://twitter.com/Solmates_01) </br>
-
+## Do check out our Twitter:
+- Twitter: [@Solmates_01](https://twitter.com/Solmates_01)
 
 Thank you for your interest in SOLMATES. We look forward to connecting with you soon!
